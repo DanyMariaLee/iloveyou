@@ -5,9 +5,9 @@ object Lyrics {
   final val space = " "
 
   val iLoveYous =
-    """Mandarin,Wǒ ài nǐ
+    """English,I love you
       |Spanish,te amo, te quiero
-      |English,I love you
+      |Mandarin,Wǒ ài nǐ
       |Hindi,main tumse pyar karta hoon
       |Arabic,ahabak
       |Portuguese,eu te amo
@@ -24,7 +24,7 @@ object Lyrics {
       |French,je t’aime
       |Marathi,mī tujhyāvara prēma karatō
       |Tamil,nāṉ uṉṉai kātalikkiṟēṉ
-      |Urdu,m – (mein ap say muhabat karta hoon) & f – (mein ap say muhabat karti hoon)
+      |Urdu,m – (mein ap say muhabat karta hoon), f – (mein ap say muhabat karti hoon)
       |Persian/Farsi,asheghetam, dūset dāram
       |Turkish,seni seviyorum
       |Cantonese,ngóh oi néih
