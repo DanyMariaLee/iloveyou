@@ -9,3 +9,5 @@ And run
 ```bash
 ./run.sh
 ```
+
+[![N|Solid](./output.png)](https://nodesource.com/products/nsolid)
