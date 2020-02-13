@@ -1,4 +1,4 @@
-name := "heart"
+name := "iloveyou"
 
 version := "0.1"
 
