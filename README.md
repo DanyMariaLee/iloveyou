@@ -12,6 +12,6 @@ And run
 ./run.sh
 ```
 
-[![N|Solid](./output.png)](https://nodesource.com/products/nsolid)
+![Image](./output.png)
 
 ### Feel free to contribute!
