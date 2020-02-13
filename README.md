@@ -10,4 +10,4 @@ cd iloveyou
 
 ![Image](./output.png)
 
-### [Feel free to contribute!](https://github.com/DanyMariaLee/iloveyou)
+### Feel free to contribute!
