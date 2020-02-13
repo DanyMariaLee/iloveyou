@@ -1,3 +1,5 @@
+## Get the script
+
 Open terminal and type
 
 ```bash
@@ -12,4 +14,4 @@ And run
 
 [![N|Solid](./output.png)](https://nodesource.com/products/nsolid)
 
-Feel free to contribute!
+### Feel free to contribute!
